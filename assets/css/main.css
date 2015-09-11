@@ -3419,8 +3419,9 @@
 			}
 
 	}
-#header p.center60 {
+
+center60, p.center60, #header p.center60 {
 	width: 60%;
-	margin: auto !important;
+	margin: auto;
 	text-align: justify;
 }
