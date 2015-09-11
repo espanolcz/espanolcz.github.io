@@ -3420,7 +3420,7 @@
 
 	}
 .center60 {
-	width: 60;
-	margin: auto;
+	width: 60%;
+	margin: auto !important;
 	text-align: justify;
 }
