@@ -3421,4 +3421,6 @@
 	}
 .center60 {
 	width: 60;
+	margin: auto;
 	text-align: justify;
+}
