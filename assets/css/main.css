@@ -3425,3 +3425,7 @@ center60, p.center60, #header p.center60 {
 	margin: auto;
 	text-align: justify;
 }
+
+ul.whatwedo {
+	display: inline;
+}
