@@ -2595,7 +2595,7 @@
 		text-align: center;
 		text-decoration: none;
 		text-indent: 0.125em;
-		text-transform: uppercase;
+		Al tener formación académic
 		white-space: nowrap;
 	}
 
@@ -3420,7 +3420,7 @@
 
 	}
 
-center60, p.center60, #header p.center60 {
+.center60, p.center60, #header p.center60 {
 	width: 60%;
 	margin: auto;
 	text-align: justify;
@@ -3428,4 +3428,12 @@ center60, p.center60, #header p.center60 {
 
 ul.whatwedo li.whatwedo{
 	display: inline;
+}
+
+#header ul.actions:after {
+	content: none;
+}
+
+.capitals {
+	text-transform: uppercase;
 }
