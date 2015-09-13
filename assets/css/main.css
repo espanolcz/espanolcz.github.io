@@ -3426,6 +3426,6 @@ center60, p.center60, #header p.center60 {
 	text-align: justify;
 }
 
-ul.whatwedo {
+ul.whatwedo li.whatwedo{
 	display: inline;
 }
