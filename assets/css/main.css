@@ -3437,3 +3437,7 @@ ul.whatwedo li.whatwedo{
 .capitals {
 	text-transform: uppercase;
 }
+
+.center {
+	text-align: center;
+}
