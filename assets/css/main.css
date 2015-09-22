@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic&subset=latin-ext,latin");
 
 /*
 	Photon by HTML5 UP
@@ -1809,6 +1809,7 @@
 	body, input, select, textarea {
 		color: #666;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		/* font-family: Verdana, Geneva, sans-serif; */
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.65em;
